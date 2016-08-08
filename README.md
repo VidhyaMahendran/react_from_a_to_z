@@ -12,3 +12,7 @@ Simply render React's JSX tag using render.
 ## Rendering a same react component multiple times
 Simply render React's JSX tag using render. When multiple components are being rendered, we need to place them inside a place holder.  
 `Open index.html inside renderComponents folder`
+
+## Rendering a react component with properties
+Render a react component with properties.  
+`Open index.html inside componentWithProperties folder`
